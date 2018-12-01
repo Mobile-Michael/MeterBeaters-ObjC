@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21F8FD32-6C90-4F9B-8116-8AAD9E5BA1D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MeterBeaters</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>149918829B90013B465C3F6F4DCD49373DF2DAF2</key>
+		<string>https://github.com/MMullin7/MeterBeatersProduction.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MeterBeaters.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>149918829B90013B465C3F6F4DCD49373DF2DAF2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MMullin7/MeterBeatersProduction.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>149918829B90013B465C3F6F4DCD49373DF2DAF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>149918829B90013B465C3F6F4DCD49373DF2DAF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MeterBeatersProduction</string>
+		</dict>
+	</array>
+</dict>
+</plist>
