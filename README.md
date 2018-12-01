@@ -1,6 +1,8 @@
 # MeterBeaters-ObjC
 Meter Beaters iOS Mobile Application in Objective-C
 
+Warning: This data is over 4 years old, do not use in production. SQL data is purely as
+reference use at your own risk.
 Back End Has Been Removed!
 
 ## Some data can be found in the /Data folder of the Repository
